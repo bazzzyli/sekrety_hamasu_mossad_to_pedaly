@@ -332,7 +332,7 @@
             <tempo>1.4</tempo>
             <followText>1</followText>
             <eid>2J3QQP/XXYM_f4BYjvwz7cE</eid>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 84</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 84</text>
             </Tempo>
           <Rest>
             <eid>w7tU1cBT9MC_mz+JoqBPdOC</eid>
@@ -960,7 +960,7 @@
             <followText>1</followText>
             <eid>ud9Nz9176DP_NRwawZ0/Lm</eid>
             <linkedTo>2J3QQP/XXYM_f4BYjvwz7cE</linkedTo>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 84</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 84</text>
             </Tempo>
           <Chord>
             <eid>jBv6utyUSbP_oQybnhoeUHF</eid>
@@ -1983,14 +1983,16 @@
             <eid>l5GOg4+9a2G_e2+Jii3zWmL</eid>
             <durationType>16th</durationType>
             <Note>
-              <eid>ANwmdgJirTH_rkcqHrgnyiK</eid>
+              <eid>1XSVY2lzFJ_14rYdLE8koO</eid>
               <pitch>40</pitch>
               <tpc>18</tpc>
-              <velocity>95</velocity>
-              <fret>2</fret>
-              <string>1</string>
+              <fret>7</fret>
+              <string>2</string>
               </Note>
             </Chord>
+          <Segment>
+            <leadingSpace>0.552825</leadingSpace>
+            </Segment>
           <Chord>
             <eid>nFY8T5WEP0_cZnh5OHZS3C</eid>
             <durationType>eighth</durationType>
@@ -2019,8 +2021,8 @@
               <pitch>40</pitch>
               <tpc>18</tpc>
               <velocity>95</velocity>
-              <fret>2</fret>
-              <string>1</string>
+              <fret>7</fret>
+              <string>2</string>
               </Note>
             </Chord>
           <PlayCountText>
