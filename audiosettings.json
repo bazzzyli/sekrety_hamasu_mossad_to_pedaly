@@ -74,7 +74,7 @@
                         "signalAmount": 0.30000001192092896
                     }
                 ],
-                "balance": -1,
+                "balance": 0,
                 "fxChain": {
                 },
                 "volumeDb": 2.700000047683716
@@ -133,7 +133,7 @@
                 "auxSends": [
                     {
                         "active": true,
-                        "signalAmount": 0.30000001192092896
+                        "signalAmount": 0
                     },
                     {
                         "active": true,
@@ -171,7 +171,7 @@
                 "auxSends": [
                     {
                         "active": true,
-                        "signalAmount": 0.30000001192092896
+                        "signalAmount": 0.2199999988079071
                     },
                     {
                         "active": true,
@@ -181,7 +181,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": 2
             },
             "partId": "1",
             "soloMuteState": {

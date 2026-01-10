@@ -3123,21 +3123,20 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>9VMxnY0MKxO_w+7OkR/y98I</eid>
-            <durationType>16th</durationType>
+            <eid>dnw5YHTpNSG_iVeGFMuZjZE</eid>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <eid>F/OBn3dUhsC_HewF3+hCnnO</eid>
+              </Articulation>
             <Note>
-              <eid>hsbvjpcmTu_gfnwfz6qg1E</eid>
+              <eid>5cjepmtI/d_Wa9x83Pi0MJ</eid>
               <pitch>40</pitch>
               <tpc>18</tpc>
-              <velocity>95</velocity>
               <fret>7</fret>
               <string>2</string>
               </Note>
             </Chord>
-          <Rest>
-            <eid>0HcjH1H+O9C_0w8sJTPuz+J</eid>
-            <durationType>16th</durationType>
-            </Rest>
           <Chord>
             <eid>3Dex5zn12GJ_TH2bXN3Xi3B</eid>
             <durationType>eighth</durationType>
