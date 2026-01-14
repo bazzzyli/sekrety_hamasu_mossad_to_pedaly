@@ -536,13 +536,17 @@
             </Rest>
           <Chord>
             <eid>8kQ/Ycr9rLO_D4xJijbRyJK</eid>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
               <eid>CnYq4v2mClB_Mg+YhIpuuVK</eid>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <eid>YW66VS+DWAE_2qgI7EnKhlP</eid>
+            <durationType>16th</durationType>
+            </Rest>
           <Chord>
             <eid>3jFl8Pp3v9O_C0jlMd8YbLI</eid>
             <durationType>eighth</durationType>
@@ -3238,9 +3242,9 @@
               </Articulation>
             <Note>
               <eid>nLxoYPPKVAD_IuSA+oPNGuO</eid>
-              <pitch>33</pitch>
-              <tpc>17</tpc>
-              <fret>5</fret>
+              <pitch>36</pitch>
+              <tpc>14</tpc>
+              <fret>8</fret>
               <string>3</string>
               </Note>
             </Chord>
@@ -3251,6 +3255,7 @@
               <subtype>articStaccatoAbove</subtype>
               <eid>UvvC5HAAezH_st3sBb7mW2M</eid>
               </Articulation>
+            <StemDirection>up</StemDirection>
             <Note>
               <eid>jsf7sREB2gH_D2Rta7k2QHB</eid>
               <pitch>53</pitch>
@@ -3263,13 +3268,14 @@
           <Chord>
             <eid>IErLnqQiwcC_9OV9Vja2MrP</eid>
             <durationType>16th</durationType>
+            <StemDirection>up</StemDirection>
             <Note>
               <eid>x3fUlGUwnbM_rbC3wGwYwX</eid>
-              <pitch>33</pitch>
-              <tpc>17</tpc>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
               <velocity>95</velocity>
-              <fret>5</fret>
-              <string>3</string>
+              <fret>8</fret>
+              <string>2</string>
               </Note>
             </Chord>
           <Chord>
@@ -3279,6 +3285,7 @@
               <subtype>articStaccatoAbove</subtype>
               <eid>z7qLH18QBUG_CywZSc17M/N</eid>
               </Articulation>
+            <StemDirection>up</StemDirection>
             <Note>
               <eid>yY1mq/ZC8tD_mBOiuChl/EJ</eid>
               <pitch>41</pitch>
@@ -3294,6 +3301,7 @@
               <subtype>articStaccatoAbove</subtype>
               <eid>B9aq0s8f1yE_XbNWN2plelO</eid>
               </Articulation>
+            <StemDirection>up</StemDirection>
             <Note>
               <eid>OxUw5iJo0WO_Ez2NyieG8SJ</eid>
               <pitch>53</pitch>
@@ -3306,6 +3314,7 @@
           <Chord>
             <eid>hiEvwf3QMb_IZ6ee6vTT4N</eid>
             <durationType>16th</durationType>
+            <StemDirection>up</StemDirection>
             <Note>
               <eid>NjoLq62/56I_XPq0+zNbzx</eid>
               <pitch>41</pitch>
@@ -3396,12 +3405,11 @@
             <eid>2RqsLni/0ZI_NEchQ71koMM</eid>
             <durationType>16th</durationType>
             <Note>
-              <eid>Tzd5BpmOXcO_XwV7mCNxKtE</eid>
-              <pitch>33</pitch>
-              <tpc>17</tpc>
-              <velocity>95</velocity>
-              <fret>5</fret>
-              <string>3</string>
+              <eid>PqDpxbi7CJJ_lZftw4ElR8H</eid>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              <fret>8</fret>
+              <string>2</string>
               </Note>
             </Chord>
           <Chord>
@@ -3477,10 +3485,10 @@
       <Measure>
         <voice>
           <Chord>
-            <eid>N4LiYCDP0fJ_cPd9+tJPtjM</eid>
+            <eid>XaISQicXhDC_D+9RPcF+tAN</eid>
             <durationType>eighth</durationType>
             <Note>
-              <eid>/zaJUl0mWu_stjm+FRCmWM</eid>
+              <eid>ld5ZaxUah1N_Pic/elGCSnG</eid>
               <pitch>29</pitch>
               <tpc>13</tpc>
               <velocity>95</velocity>
@@ -3489,19 +3497,19 @@
               <ChordLine>
                 <subtype>2</subtype>
                 <straight>1</straight>
-                <eid>ABqn1E0hIiC_l+SzSe6rOTP</eid>
+                <eid>X3ugMCUkrxC_GuHH7lqwCzO</eid>
                 </ChordLine>
               </Note>
             </Chord>
           <Chord>
-            <eid>qlGVxFFzx0J_aWXAAm1StlN</eid>
+            <eid>KzuokYCq0fG_lU93sbUJ3bN</eid>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <eid>etDXdSPZNIF_aZl6QRCowoO</eid>
+              <eid>SayS7/p9teF_tg0C/I4j8DK</eid>
               </Articulation>
             <Note>
-              <eid>IHJ9AKLuxgI_JS1+4AKj2QB</eid>
+              <eid>l+tdXpXASII_sq+6itNzuuC</eid>
               <pitch>33</pitch>
               <tpc>17</tpc>
               <fret>5</fret>
@@ -3509,14 +3517,14 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>VhuFvN7KXkD_zwy3yvQP/DD</eid>
+            <eid>XfT7WsRGG/N_qJUZhYTL7PI</eid>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <eid>OlKA076F7FK_3qXudDv9cOP</eid>
+              <eid>QAAptiWcKQH_i4x0S9x8xAL</eid>
               </Articulation>
             <Note>
-              <eid>inHaf+OJhfE_TV9Vvk9nejH</eid>
+              <eid>Uiazl7y3V3J_6eFs06hFa3F</eid>
               <pitch>53</pitch>
               <tpc>13</tpc>
               <velocity>95</velocity>
@@ -3525,26 +3533,10 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>jD4Upf5mVeB_ibRbQiypbVB</eid>
+            <eid>ssH2wHY56yJ_K5N6ncDesQE</eid>
             <durationType>16th</durationType>
             <Note>
-              <eid>KFlgLzlE6oD_H4UAX6czm8G</eid>
-              <pitch>33</pitch>
-              <tpc>17</tpc>
-              <velocity>95</velocity>
-              <fret>5</fret>
-              <string>3</string>
-              </Note>
-            </Chord>
-          <Chord>
-            <eid>BdIqG7mHXjB_aZTFSkj9bPC</eid>
-            <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              <eid>l2UwXwTSRYJ_bWnew0WxXSG</eid>
-              </Articulation>
-            <Note>
-              <eid>x/CX+I7tL/K_Hpu8X6jkJi</eid>
+              <eid>ZRnsUkoPiuB_7OCMWi6LkTC</eid>
               <pitch>41</pitch>
               <tpc>13</tpc>
               <fret>8</fret>
@@ -3552,14 +3544,29 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>9wpAB/fdcPG_cZ5nZgjLF5H</eid>
+            <eid>+Nb9f340ztL_x69urbBmyYI</eid>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <eid>d0IxEGne+SF_Agk7olaFUsF</eid>
+              <eid>qiB2NHgMN/N_imXRy6mWaE</eid>
               </Articulation>
             <Note>
-              <eid>qToL7IZXzKI_P+6799acJFK</eid>
+              <eid>PNQiQgSutxO_biDhnW8h+SC</eid>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              <fret>8</fret>
+              <string>2</string>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>q7etQqHZyzF_MJrdz9msPRJ</eid>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <eid>OtF0unV/yJE_4cKft0j8pKL</eid>
+              </Articulation>
+            <Note>
+              <eid>YPEXexzhtyG_ywTMm/mso7N</eid>
               <pitch>53</pitch>
               <tpc>13</tpc>
               <velocity>95</velocity>
@@ -3568,10 +3575,10 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>VeTxj/H8BnB_ge0lZ8bEFnD</eid>
+            <eid>TP+8rg2TmFJ_1x07zUietnB</eid>
             <durationType>16th</durationType>
             <Note>
-              <eid>1fup+H5fQmD_FxKh4DzgnqJ</eid>
+              <eid>vvidMk9fOVF_wixiyU+KPAD</eid>
               <pitch>41</pitch>
               <tpc>13</tpc>
               <fret>8</fret>
@@ -3579,14 +3586,14 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>L4xTyInl0AL_nhwP+3Xp9qP</eid>
+            <eid>i4D6qGqALg_PH4zXPwa+hM</eid>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <eid>SrN0l0b3QkF_ZI6kaCx7UHO</eid>
+              <eid>Q7W5iEime4_CJmR6etB+FN</eid>
               </Articulation>
             <Note>
-              <eid>wa+10mL67yG_r0alf2ACdyM</eid>
+              <eid>JuKglToXX9J_pLzBJQsATnO</eid>
               <pitch>53</pitch>
               <tpc>13</tpc>
               <fret>10</fret>
@@ -3594,10 +3601,10 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>o/ifB0hwFWF_LOeKPIJz1KJ</eid>
+            <eid>WUxzw+5BpHP_fOSubNGGO/F</eid>
             <durationType>eighth</durationType>
             <Note>
-              <eid>9T30E6VZ81G_oH2GHJ90tCH</eid>
+              <eid>mh0U1P1KAEG_OpHCRMNW8iI</eid>
               <pitch>41</pitch>
               <tpc>13</tpc>
               <fret>8</fret>
