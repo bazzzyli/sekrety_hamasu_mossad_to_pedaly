@@ -2053,6 +2053,16 @@
           <Chord>
             <eid>W+MaWfyz6uJ_lwD5CIg50UD</eid>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>rPjXNaAEaL_On1jdaM2cK</eid>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>158tJKD5UjG_uCtHM/ylkhK</eid>
               <pitch>28</pitch>
@@ -2065,6 +2075,13 @@
           <Chord>
             <eid>WVuTWZW2OvN_5lE7RRN4Xn</eid>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>A2ReBvr+TrO_6v9lReKEZMG</eid>
               <pitch>40</pitch>
@@ -3242,9 +3259,9 @@
               </Articulation>
             <Note>
               <eid>nLxoYPPKVAD_IuSA+oPNGuO</eid>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              <fret>8</fret>
+              <pitch>33</pitch>
+              <tpc>17</tpc>
+              <fret>5</fret>
               <string>3</string>
               </Note>
             </Chord>
@@ -3664,26 +3681,25 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>Yv7eE+dQBpK_F5wErrsWfbE</eid>
-            <durationType>16th</durationType>
+            <eid>qw8xtSJTBuI_9oZMfcyqgzL</eid>
+            <durationType>eighth</durationType>
             <Note>
-              <eid>7Gff8UPBc4H_yFkMxdjr4ED</eid>
-              <pitch>33</pitch>
-              <tpc>17</tpc>
-              <velocity>95</velocity>
-              <fret>5</fret>
-              <string>3</string>
+              <eid>SH2sErgMJEF_YW1kuGOGi7E</eid>
+              <pitch>41</pitch>
+              <tpc>13</tpc>
+              <fret>8</fret>
+              <string>2</string>
               </Note>
             </Chord>
           <Chord>
-            <eid>gEjhk0pgfJO_6l2hVEv8OVJ</eid>
-            <durationType>eighth</durationType>
+            <eid>t/3jMaogJHO_YKUe/IErcuK</eid>
+            <durationType>16th</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <eid>dEM5zGG+peE_Se/8/HB7nPD</eid>
+              <eid>UpB63zX0ZzF_bHJZeBfwNoN</eid>
               </Articulation>
             <Note>
-              <eid>c6UWwsZv7ZJ_Z84NK3kX3w</eid>
+              <eid>FV2Hn2b8nxG_yBaylXO2XCP</eid>
               <pitch>41</pitch>
               <tpc>13</tpc>
               <fret>8</fret>
